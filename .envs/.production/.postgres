@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=wtitenaut
+POSTGRES_USER=sBgYsWhBTzuKenQTuZrqaPgNxuomRqNT
+POSTGRES_PASSWORD=vmDO3kIMJaIvWQUQUQ4fLXoGhEM5T6RDWvRvkQzaZUIKkid5vG6ewWGjVYz2xUp2
